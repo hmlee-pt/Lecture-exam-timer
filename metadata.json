@@ -1,0 +1,5 @@
+{
+  "name": "Lecture timer",
+  "description": "A web application to display exam precautions and reminders. Users can input custom messages on a setup screen, which are then shown on a clean, focused display screen.",
+  "requestFramePermissions": []
+}
